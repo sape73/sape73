@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![Atom](https://badgen.net/badge/icon/atom?icon=atom&label)](https://atom.io)
